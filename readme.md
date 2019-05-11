@@ -14,6 +14,8 @@ Dan disin menggunakan konsep MVC
 # Penggunaan Aplikasi
 - pastikan node.js dan mysql terinstall
 - pastikan service mysql sudah berjalan
+- buka phpmyadmin atau software managament db mysql
+- lalu buat database dengan nama arkademy dan import file arkademy.sql yang terdapat dalam folder tsb.
 - buka command prompt
 - npm install
 - lalu, node server.js
